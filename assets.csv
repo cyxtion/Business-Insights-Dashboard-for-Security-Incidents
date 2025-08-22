@@ -1,0 +1,301 @@
+asset_id,hostname,asset_type,business_unit,criticality,owner_user_id
+1,host-0001,Network Device,HR,3,430
+2,host-0002,Database,HR,5,162
+3,host-0003,Cloud VM,Sales,4,333
+4,host-0004,Server,IT,3,87
+5,host-0005,Cloud VM,Finance,2,162
+6,host-0006,Database,Operations,2,84
+7,host-0007,Network Device,Sales,1,435
+8,host-0008,Network Device,HR,4,453
+9,host-0009,Cloud VM,Finance,3,221
+10,host-0010,Network Device,Finance,4,354
+11,host-0011,Mobile,R&D,1,291
+12,host-0012,Cloud VM,R&D,5,499
+13,host-0013,Server,IT,4,316
+14,host-0014,Cloud VM,Finance,2,405
+15,host-0015,Workstation,HR,2,8
+16,host-0016,Workstation,Legal,2,217
+17,host-0017,Database,HR,3,262
+18,host-0018,Server,Operations,3,123
+19,host-0019,Workstation,IT,3,441
+20,host-0020,Cloud VM,R&D,2,390
+21,host-0021,Cloud VM,Sales,3,236
+22,host-0022,Server,Operations,2,363
+23,host-0023,Network Device,Finance,2,44
+24,host-0024,Server,Legal,3,471
+25,host-0025,Cloud VM,Operations,3,321
+26,host-0026,Network Device,R&D,4,588
+27,host-0027,Database,Finance,2,428
+28,host-0028,Server,HR,3,415
+29,host-0029,Cloud VM,Operations,3,176
+30,host-0030,Server,Operations,1,371
+31,host-0031,Workstation,Operations,3,109
+32,host-0032,Cloud VM,Finance,2,411
+33,host-0033,Database,R&D,1,406
+34,host-0034,Workstation,HR,5,348
+35,host-0035,Server,Sales,5,173
+36,host-0036,Cloud VM,Sales,4,117
+37,host-0037,Database,HR,3,199
+38,host-0038,Workstation,Finance,1,152
+39,host-0039,Database,IT,4,150
+40,host-0040,Cloud VM,IT,3,178
+41,host-0041,Workstation,Legal,2,78
+42,host-0042,Network Device,Legal,3,506
+43,host-0043,Cloud VM,Operations,1,578
+44,host-0044,Mobile,R&D,5,579
+45,host-0045,Mobile,HR,2,331
+46,host-0046,Network Device,Finance,4,155
+47,host-0047,Network Device,R&D,3,481
+48,host-0048,Database,Sales,3,311
+49,host-0049,Database,Sales,3,58
+50,host-0050,Database,Operations,2,76
+51,host-0051,Server,Finance,5,463
+52,host-0052,Database,Finance,4,378
+53,host-0053,Cloud VM,Sales,5,93
+54,host-0054,Network Device,Operations,4,520
+55,host-0055,Cloud VM,Legal,3,595
+56,host-0056,Network Device,Legal,5,43
+57,host-0057,Mobile,IT,1,586
+58,host-0058,Cloud VM,Operations,2,330
+59,host-0059,Workstation,Finance,1,514
+60,host-0060,Server,Legal,3,462
+61,host-0061,Mobile,Finance,3,352
+62,host-0062,Mobile,IT,2,517
+63,host-0063,Workstation,R&D,4,41
+64,host-0064,Network Device,Sales,3,449
+65,host-0065,Cloud VM,IT,2,536
+66,host-0066,Database,HR,3,373
+67,host-0067,Network Device,Legal,2,397
+68,host-0068,Mobile,Sales,4,347
+69,host-0069,Mobile,R&D,1,54
+70,host-0070,Server,HR,5,343
+71,host-0071,Cloud VM,R&D,4,97
+72,host-0072,Database,HR,2,396
+73,host-0073,Database,Finance,1,154
+74,host-0074,Mobile,IT,4,597
+75,host-0075,Database,R&D,4,359
+76,host-0076,Workstation,Sales,4,402
+77,host-0077,Database,Sales,4,87
+78,host-0078,Mobile,Legal,1,386
+79,host-0079,Workstation,R&D,3,337
+80,host-0080,Server,R&D,2,540
+81,host-0081,Cloud VM,HR,4,434
+82,host-0082,Database,HR,3,19
+83,host-0083,Workstation,HR,3,185
+84,host-0084,Workstation,IT,1,498
+85,host-0085,Workstation,Finance,3,141
+86,host-0086,Server,Sales,3,303
+87,host-0087,Mobile,Sales,4,553
+88,host-0088,Mobile,HR,3,39
+89,host-0089,Cloud VM,Operations,4,135
+90,host-0090,Workstation,IT,3,158
+91,host-0091,Mobile,Operations,2,170
+92,host-0092,Network Device,HR,4,45
+93,host-0093,Network Device,Sales,4,244
+94,host-0094,Mobile,Legal,3,292
+95,host-0095,Workstation,Sales,4,460
+96,host-0096,Database,Legal,3,245
+97,host-0097,Workstation,HR,3,481
+98,host-0098,Network Device,Operations,3,585
+99,host-0099,Network Device,Sales,1,289
+100,host-0100,Network Device,IT,2,541
+101,host-0101,Cloud VM,IT,1,205
+102,host-0102,Server,R&D,3,257
+103,host-0103,Database,Sales,3,493
+104,host-0104,Mobile,Legal,3,106
+105,host-0105,Server,HR,5,529
+106,host-0106,Workstation,HR,2,86
+107,host-0107,Cloud VM,IT,3,461
+108,host-0108,Server,IT,4,448
+109,host-0109,Database,Finance,2,462
+110,host-0110,Server,Operations,1,425
+111,host-0111,Database,IT,2,515
+112,host-0112,Server,HR,2,396
+113,host-0113,Server,HR,5,230
+114,host-0114,Mobile,R&D,4,102
+115,host-0115,Workstation,IT,3,344
+116,host-0116,Database,Legal,4,40
+117,host-0117,Mobile,Legal,4,484
+118,host-0118,Mobile,Operations,2,143
+119,host-0119,Cloud VM,Finance,4,460
+120,host-0120,Server,HR,3,82
+121,host-0121,Workstation,Sales,4,221
+122,host-0122,Network Device,Finance,4,541
+123,host-0123,Workstation,HR,3,296
+124,host-0124,Server,IT,2,125
+125,host-0125,Mobile,Legal,2,430
+126,host-0126,Server,Finance,3,469
+127,host-0127,Cloud VM,Sales,4,512
+128,host-0128,Mobile,Sales,4,17
+129,host-0129,Workstation,R&D,1,589
+130,host-0130,Database,Operations,3,148
+131,host-0131,Cloud VM,HR,3,2
+132,host-0132,Cloud VM,Operations,2,247
+133,host-0133,Mobile,R&D,2,192
+134,host-0134,Cloud VM,HR,3,88
+135,host-0135,Cloud VM,Sales,5,70
+136,host-0136,Cloud VM,Sales,3,520
+137,host-0137,Network Device,Legal,3,21
+138,host-0138,Server,R&D,4,482
+139,host-0139,Database,HR,3,397
+140,host-0140,Database,Legal,5,17
+141,host-0141,Database,IT,5,70
+142,host-0142,Cloud VM,R&D,2,107
+143,host-0143,Workstation,Finance,3,341
+144,host-0144,Cloud VM,HR,3,361
+145,host-0145,Mobile,Operations,2,180
+146,host-0146,Mobile,IT,1,491
+147,host-0147,Server,R&D,3,139
+148,host-0148,Server,HR,3,469
+149,host-0149,Server,Legal,1,207
+150,host-0150,Server,HR,2,205
+151,host-0151,Cloud VM,Operations,5,318
+152,host-0152,Network Device,HR,2,557
+153,host-0153,Mobile,IT,2,38
+154,host-0154,Database,Legal,3,293
+155,host-0155,Mobile,HR,5,49
+156,host-0156,Server,Legal,2,280
+157,host-0157,Network Device,Operations,4,377
+158,host-0158,Network Device,HR,4,451
+159,host-0159,Network Device,R&D,2,192
+160,host-0160,Database,Legal,4,510
+161,host-0161,Database,Legal,3,532
+162,host-0162,Mobile,Operations,3,85
+163,host-0163,Network Device,Sales,3,81
+164,host-0164,Cloud VM,HR,3,185
+165,host-0165,Server,Finance,1,329
+166,host-0166,Mobile,HR,4,336
+167,host-0167,Network Device,Sales,3,314
+168,host-0168,Workstation,R&D,2,437
+169,host-0169,Database,Operations,1,455
+170,host-0170,Mobile,Legal,3,44
+171,host-0171,Cloud VM,Operations,4,362
+172,host-0172,Mobile,Legal,1,282
+173,host-0173,Server,R&D,3,59
+174,host-0174,Database,Sales,2,416
+175,host-0175,Server,IT,3,164
+176,host-0176,Server,IT,2,449
+177,host-0177,Workstation,Legal,4,69
+178,host-0178,Database,Operations,3,376
+179,host-0179,Server,Sales,5,581
+180,host-0180,Mobile,Operations,2,158
+181,host-0181,Database,Operations,3,380
+182,host-0182,Cloud VM,IT,2,79
+183,host-0183,Database,Operations,5,543
+184,host-0184,Mobile,HR,4,322
+185,host-0185,Server,Finance,2,256
+186,host-0186,Network Device,Sales,4,191
+187,host-0187,Cloud VM,Finance,4,397
+188,host-0188,Database,R&D,3,269
+189,host-0189,Workstation,Sales,3,457
+190,host-0190,Mobile,Operations,2,293
+191,host-0191,Server,IT,1,205
+192,host-0192,Network Device,IT,4,76
+193,host-0193,Server,Legal,5,456
+194,host-0194,Mobile,HR,3,328
+195,host-0195,Cloud VM,Sales,3,67
+196,host-0196,Database,Legal,3,298
+197,host-0197,Mobile,R&D,4,162
+198,host-0198,Database,Sales,4,179
+199,host-0199,Server,IT,4,230
+200,host-0200,Workstation,Legal,4,143
+201,host-0201,Server,HR,3,506
+202,host-0202,Cloud VM,HR,1,568
+203,host-0203,Cloud VM,IT,2,479
+204,host-0204,Server,HR,4,89
+205,host-0205,Mobile,R&D,3,408
+206,host-0206,Cloud VM,Operations,1,491
+207,host-0207,Cloud VM,Finance,2,420
+208,host-0208,Database,R&D,4,129
+209,host-0209,Network Device,Operations,1,76
+210,host-0210,Database,IT,2,530
+211,host-0211,Mobile,Sales,3,565
+212,host-0212,Workstation,Operations,4,187
+213,host-0213,Server,Legal,4,515
+214,host-0214,Cloud VM,IT,2,128
+215,host-0215,Workstation,IT,4,312
+216,host-0216,Mobile,IT,2,331
+217,host-0217,Cloud VM,HR,3,355
+218,host-0218,Database,IT,4,81
+219,host-0219,Database,IT,3,565
+220,host-0220,Cloud VM,Sales,4,311
+221,host-0221,Cloud VM,R&D,4,96
+222,host-0222,Cloud VM,Sales,3,173
+223,host-0223,Workstation,R&D,1,158
+224,host-0224,Cloud VM,Finance,3,346
+225,host-0225,Server,Finance,2,30
+226,host-0226,Database,R&D,2,591
+227,host-0227,Cloud VM,Operations,5,216
+228,host-0228,Network Device,R&D,3,32
+229,host-0229,Database,R&D,4,559
+230,host-0230,Network Device,IT,3,310
+231,host-0231,Database,Operations,4,416
+232,host-0232,Mobile,Finance,3,75
+233,host-0233,Network Device,Operations,3,162
+234,host-0234,Network Device,IT,3,496
+235,host-0235,Cloud VM,IT,2,349
+236,host-0236,Mobile,HR,4,321
+237,host-0237,Network Device,IT,2,354
+238,host-0238,Cloud VM,Sales,1,380
+239,host-0239,Database,IT,3,109
+240,host-0240,Server,HR,2,478
+241,host-0241,Workstation,IT,5,461
+242,host-0242,Server,HR,5,100
+243,host-0243,Cloud VM,Operations,5,394
+244,host-0244,Workstation,Legal,3,255
+245,host-0245,Cloud VM,R&D,1,336
+246,host-0246,Workstation,Legal,5,321
+247,host-0247,Network Device,Sales,3,164
+248,host-0248,Network Device,HR,5,479
+249,host-0249,Server,Finance,5,510
+250,host-0250,Cloud VM,Operations,4,403
+251,host-0251,Workstation,Sales,2,247
+252,host-0252,Server,Finance,3,362
+253,host-0253,Network Device,Sales,4,289
+254,host-0254,Database,Sales,3,482
+255,host-0255,Server,Operations,2,9
+256,host-0256,Database,R&D,3,138
+257,host-0257,Network Device,HR,5,375
+258,host-0258,Network Device,Finance,4,47
+259,host-0259,Cloud VM,IT,3,584
+260,host-0260,Cloud VM,HR,1,372
+261,host-0261,Network Device,Sales,3,76
+262,host-0262,Cloud VM,HR,5,462
+263,host-0263,Workstation,Finance,2,122
+264,host-0264,Database,Legal,3,404
+265,host-0265,Cloud VM,HR,4,348
+266,host-0266,Workstation,Sales,4,148
+267,host-0267,Network Device,Sales,4,522
+268,host-0268,Server,Finance,4,42
+269,host-0269,Mobile,HR,3,141
+270,host-0270,Cloud VM,Operations,2,486
+271,host-0271,Cloud VM,Sales,4,153
+272,host-0272,Database,Sales,4,144
+273,host-0273,Workstation,Operations,4,327
+274,host-0274,Cloud VM,HR,5,307
+275,host-0275,Cloud VM,Sales,3,520
+276,host-0276,Mobile,Sales,3,502
+277,host-0277,Network Device,Legal,4,307
+278,host-0278,Database,HR,3,18
+279,host-0279,Network Device,Sales,4,113
+280,host-0280,Mobile,Legal,4,316
+281,host-0281,Cloud VM,Operations,4,28
+282,host-0282,Mobile,Legal,3,272
+283,host-0283,Cloud VM,IT,3,593
+284,host-0284,Cloud VM,Operations,1,53
+285,host-0285,Cloud VM,R&D,3,175
+286,host-0286,Workstation,Legal,1,390
+287,host-0287,Server,Sales,3,249
+288,host-0288,Workstation,Finance,3,113
+289,host-0289,Database,Operations,2,452
+290,host-0290,Network Device,R&D,3,156
+291,host-0291,Network Device,Sales,1,209
+292,host-0292,Mobile,R&D,1,483
+293,host-0293,Mobile,IT,4,64
+294,host-0294,Workstation,Sales,3,532
+295,host-0295,Mobile,Operations,2,333
+296,host-0296,Network Device,HR,3,539
+297,host-0297,Network Device,Sales,4,178
+298,host-0298,Cloud VM,HR,2,351
+299,host-0299,Cloud VM,Operations,3,271
+300,host-0300,Workstation,HR,1,197
