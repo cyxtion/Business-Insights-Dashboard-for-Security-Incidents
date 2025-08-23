@@ -18,34 +18,6 @@ I chose security incidents because real-world defenders need quick, actionable v
 * **Professional Theme & Layout**: A consistent theme, font sizing, grid layout, and navigation (tabs/bookmarks) for stakeholder-ready presentation.
 * **Supplementary Deliverables**: Short written report (summary, methods, key findings) and a slide deck to present the main takeaways.
 
----
-
-## Repository Structure
-
-```
-├── data/                 # Raw & cleaned datasets
-│   ├── incidents_raw.csv
-│   ├── incidents_clean.csv
-│   ├── response_times.csv
-│   └── lookup_tables.csv
-│
-├── pbix/                 # Power BI file (final dashboard)
-│   └── Security_Incidents_Dashboard.pbix
-│
-├── docs/                 # Supporting documentation
-│   ├── short_report.md
-│   ├── short_report.pdf
-│   ├── presentation.pptx
-│   └── screenshots/
-│       └── dashboard.png
-│
-├── DAX.md                # Key DAX measures and explanations
-├── README.md             # Project documentation (this file)
-└── LICENSE
-```
-
----
-
 ## Setup & How to Use
 
 1. Clone the repo.
