@@ -85,22 +85,7 @@ Refer to `DAX.md` for full definitions and explanation of each measure.
 
 This project, from data cleaning to final visual design, was implemented and authored by **Cyxtion**. The `pbix` file, DAX measures, and supporting docs were created and adjusted locally to reflect the dataset and assignment requirements. If you need any specific commit messages or additional author metadata for submission, add them to the repo or tell me what format you want for contributor proof.
 
----
-
-## Future Work / Improvements
-
-* Add real-time streaming support (DirectQuery) for live incident feeds.
-* Expand chord chart interactivity and add exportable CSV from drill-throughs.
-* Add automated tests for data freshness and DAX validation.
-
----
-
-## License
-
-This repo is released under the MIT License — see `LICENSE` for details.
-
----
 
 ## Contact
 
-Project developed by **Cyxtion**. For queries about the dashboard or to request the PBIX file, check the `docs/` folder or contact me via the GitHub profile.
+Project developed by **Mayank Rajgeet**. For queries about the dashboard or to request the PBIX file, check the `docs/` folder or contact me via the GitHub profile.
