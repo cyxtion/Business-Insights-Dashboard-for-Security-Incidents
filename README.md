@@ -88,4 +88,4 @@ This project, from data cleaning to final visual design, was implemented and aut
 
 ## Contact
 
-Project developed by **Mayank Rajgeet**. For queries about the dashboard or to request the PBIX file, check the `docs/` folder or contact me via the GitHub profile.
+Project developed by **Cyxtion**
