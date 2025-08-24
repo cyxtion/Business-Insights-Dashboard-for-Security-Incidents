@@ -84,8 +84,3 @@ Refer to `DAX.md` for full definitions and explanation of each measure.
 ## How This Demonstrates Ownership
 
 This project, from data cleaning to final visual design, was implemented and authored by **Cyxtion**. The `pbix` file, DAX measures, and supporting docs were created and adjusted locally to reflect the dataset and assignment requirements. If you need any specific commit messages or additional author metadata for submission, add them to the repo or tell me what format you want for contributor proof.
-
-
-## Contact
-
-Project developed by **Cyxtion**
